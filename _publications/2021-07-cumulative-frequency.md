@@ -2,7 +2,7 @@
 title: "Cumulative Frequency Can Explain Cognate Facilitation in Language Models"
 collection: publications
 permalink: /publication/2021-07-cumulative-frequency
-venue: '43rd Annual COnference of the Cognitive Science Society (CogSci 2021)'
+venue: '43rd Annual Conference of the Cognitive Science Society (CogSci 2021)'
 paperurl: 'https://escholarship.org/uc/item/5d39q2k1'
 ---
 Authors: Irene E. Winther, Yevgen Matusevych and Martin J. Pickering
