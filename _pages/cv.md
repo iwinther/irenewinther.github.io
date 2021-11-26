@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[My updated CV](/cv/Simple_cv.pdf).
+[My updated CV](/cv/Simple_CV.pdf).
