@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[My CV (updated October 2023)](/cv/CV_2023_new.pdf).
+[My CV (updated August 2024)](/cv/29082024_cv_irene_winther.pdf).
